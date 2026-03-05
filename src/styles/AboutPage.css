@@ -2,12 +2,14 @@
   position: relative;
   margin-left: 1rem;
   padding-left: 2rem;
-  border-left: 3px solid #0a2f66; /* bleu Bootstrap */
+  border-left: 3px solid #bbb568;
 }
 
 .card-edu{
-  background-color:transparent;
-color: rgb(207, 207, 233);
+  background: var(--bluegray);
+  color: #fff;
+  border-radius: 1.5rem;
+  box-shadow: 0 2px 12px rgba(16,24,42,0.10);
 }
 
 /* .card-body{

@@ -10,6 +10,14 @@ const AboutPage = () => {
 const experiences = [
   {
     id: 1,
+    position: 'Freelance Conceptrice/Développeuse',
+    company: 'Projets Indépendants',
+    period: '2023 - Présent',
+    description: "Développement de solutions web sur mesure pour divers clients : sites vitrines, applications e-commerce, plateformes de formation. Collaboration étroite avec les clients pour comprendre leurs besoins et livrer des produits de qualité répondant à leurs objectifs business.",
+    type: 'freelance'
+  },
+  {
+    id: 2,
     position: 'Concepteur/Développeur Java - stagiaire',
     company: 'Illian Technologies',
     period: 'mars/juillet - 2025',
@@ -191,11 +199,11 @@ const education = [
 
     {Object.entries(skillsData).map(([category, skills]) => (
       <div key={category} className="mb-5">
-        <h4 className=" mt-5  text-light text-capitalize " >{category}</h4>
+        {/* <h4 className=" mt-5  text-light text-capitalize " >{category}</h4> */}
         <hr  style={{width:"50px"}}/>
         <div className="row g-4  p-5">
           {skills.map(skill => (
-            <div key={skill.name} className="col-6 col-sm-4 col-md-3 col-lg-2 text-center text-light text-capitalize">
+            <div key={skill.name} className="col-6 col-sm-4 col-md-3 col-lg-2 text-center text-white text-capitalize">
     <div
   className="card border-0 py-5 rounded-circle mx-auto d-flex flex-column align-items-center justify-content-center"
   style={{
@@ -214,7 +222,7 @@ const education = [
                   className="img-fluid mb-2"
                   style={{ height: '40px', objectFit: 'contain' }}
                 />
-                <p className="mb-0 text-secondary">{skill.name}</p>
+                <p className="mb-0 text-white">{skill.name}</p>
               </div>
             </div>
           ))}

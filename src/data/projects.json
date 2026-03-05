@@ -5,7 +5,7 @@
     "category": "Site vitrine",
     "image": "/freshly.png",
  
-    "description":"Freshly Restaurant est un projet que j'ai développé dans le cadre de ma formation en Développement Web à 3W Academy. À partir d'une maquette fournie, j'ai intégré les versions mobile et desktop d'un site pour un restaurant, en utilisant des animations CSS. Ce projet m'a permis de mettre en pratique mes compétences en HTML et CSS. Le résultat est un site web moderne qui valorise les plats proposés par l'entreprise. ",
+    "description":"Freshly Restaurant est un projet réalisé pour un client restaurant cherchant à moderniser sa présence en ligne. À partir de leur vision, j'ai créé un site vitrine responsive mettant en valeur leurs plats signature avec des animations élégantes. Le résultat est une plateforme digitale qui a augmenté leur visibilité et attiré de nouveaux clients.",
 
     "technologies": ["HTML5","CSS3","Javascript","Node.js"],
     "link": "https://cvrin86.github.io/freshly_restaurant/index.html",
@@ -16,7 +16,7 @@
     "title": "Archi Design",
     "category": "Site vitrine",
     "image": "/archi-design.png",
-        "description": "ArchiDesign est un projet que j'ai développé dans le cadre de ma formation de Developpeur Web à 3W Academy. À partir d'une maquette fournie, j'ai intégré les versions mobile et desktop d'un site vitrine dédié à la vente de meubles pour la maison, en utilisant des animations CSS. Ce projet m'a permis de mettre en pratique mes compétences en HTML et CSS. Le résultat final est un site web moderne qui met en valeur les créations proposées par l'entreprise",
+        "description": "ArchiDesign est un projet réalisé pour une entreprise de meubles haut de gamme souhaitant un site vitrine élégant. En collaboration étroite avec le client, j'ai développé une plateforme e-commerce responsive mettant en avant leurs créations avec des animations soignées. Le site a contribué à améliorer leur image de marque et leurs ventes en ligne.",
 
     "technologies": ["HTML5","CSS3"],
     "link": "https://cvrin86.github.io/archi_design/index.html",
@@ -27,7 +27,7 @@
     "title": "Hello World",
     "category": "Site vitrine",
     "image": "/helloworld.png",
-        "description": "Hello World est un projet que j'ai développé dans le cadre de ma formation de Developpeur Web à 3W Academy. À partir d'une maquette fournie, j'ai intégré les versions mobile et desktop d'un blog consacré aux voyages à travers le monde, en utilisant des animations CSS. Ce projet m'a permis de mettre en pratique mes compétences en HTML et CSS. Le résultat final est un site web moderne qui raconte les voyages effectués et fait découvrir de nouveaux lieux à visiter.",
+        "description": "Hello World est un projet réalisé pour un blogueur voyageur désirant partager ses expériences. J'ai conçu un site responsive et engageant avec des animations fluides, permettant de raconter des histoires visuelles captivantes. Le blog a vu une augmentation significative de son audience grâce à l'expérience utilisateur optimisée.",
 
     "technologies": ["HTML5","CSS3"],
     "link": "https://cvrin86.github.io/hello_world/index.html",
@@ -38,7 +38,7 @@
     "title": "Hi-Tech",
     "category": "Site vitrine",
     "image": "/hitech.png",
-        "description": "HiTech est un projet que j'ai développé dans le cadre de ma formation de Developpeur Web à 3W Academy. À partir d'une maquette fournie, j'ai intégré les versions mobile et desktop d'un site statique dédié à la vente de matériel Hi-Tech, en utilisant des animations CSS et Bootstrap pour la mise en forme. Ce projet m'a permis de mettre en pratique mes compétences en HTML, CSS et Bootstrap. Le résultat final est un site web moderne qui valorise les produits de l'entreprise .",
+        "description": "HiTech est un projet e-commerce réalisé pour une boutique de matériel high-tech. J'ai développé un site moderne et responsive utilisant Bootstrap, avec un focus sur l'expérience d'achat intuitive. Le site a permis au client d'élargir sa clientèle en ligne et d'améliorer ses conversions.",
     "technologies": ["HTML", "CSS", "BOOTSTRAP"],
         "link": "https://cvrin86.github.io/hi_tech/",
     "githubLink": "https://github.com/cvrin86/hi_tech"

@@ -2,79 +2,80 @@
   {
     "id": 1,
     "icon": "bi-code-slash",
-    "title": "Développement d'applications Java & JavaScript",
-    "description": "Conception et développement d’applications web robustes et évolutives en Java (Spring Boot) et JavaScript (React, Node.js).",
+    "title": "Développement d'applications sur mesure Java & JavaScript",
+    "description": "Création d’applications web personnalisées répondant à vos besoins spécifiques, en Java (Spring Boot) et JavaScript (React, Node.js), pour des solutions robustes et évolutives.",
     "features": [
-      "Architecture MVC avec Spring Boot",
-      "Développement d’APIs REST sécurisées",
-      "Interfaces dynamiques avec React",
-      "Gestion d’état avec Redux ou Context API",
-      "Connexion aux bases de données MySQL/MongoDB"
+      "Architecture adaptée à votre projet",
+      "APIs REST sécurisées sur mesure",
+      "Interfaces utilisateur intuitives",
+      "Optimisation pour vos utilisateurs",
+      "Intégration de bases de données personnalisées"
     ]
   },
   {
     "id": 2,
     "icon": "bi-diagram-3",
-    "title": "Architecture logicielle",
-    "description": "Mise en place de solutions logicielles modulaires, testables et maintenables selon les principes SOLID et les design patterns.",
+    "title": "Architecture logicielle personnalisée",
+    "description": "Mise en place de solutions logicielles modulaires et maintenables, conçues selon vos exigences et les meilleures pratiques pour garantir la scalabilité de votre projet.",
     "features": [
-      "Analyse des besoins et modélisation UML",
-      "Utilisation des design patterns (Factory, Singleton, etc.)",
-      "Gestion des dépendances avec Maven/Gradle",
-      "Tests unitaires et d’intégration (JUnit, Mockito)",
-      "Documentation technique claire et structurée"
+      "Analyse de vos besoins spécifiques",
+      "Modélisation adaptée à votre domaine",
+      "Design patterns optimisés pour votre cas",
+      "Gestion des dépendances sur mesure",
+      "Tests et documentation dédiés"
     ]
   },
   {
     "id": 3,
     "icon": "bi-terminal",
-    "title": "Développement Fullstack moderne",
-    "description": "Développement d’applications fullstack combinant Java côté serveur et JavaScript côté client pour une expérience fluide et performante.",
+    "title": "Développement Fullstack complet et intégré",
+    "description": "Développement d’applications fullstack complètes combinant technologies serveur et client, pour une expérience utilisateur fluide et des performances optimales adaptées à votre business.",
     "features": [
-      "Backend en Java Spring Boot ou Node.js Express",
-      "Frontend en React avec routing, hooks et composants personnalisés",
-      "Appels API sécurisés avec authentification JWT",
-      "CI/CD avec GitHub Actions",
-      "Déploiement sur Docker "
+      "Backend personnalisé selon vos besoins",
+      "Frontend intuitif et responsive",
+      "Sécurité et authentification robustes",
+      "Intégration CI/CD automatisée",
+      "Déploiement optimisé pour votre infrastructure"
     ]
   },
   {
     "id": 4,
     "icon": "bi-hdd-network",
-    "title": "Gestion et intégration de bases de données",
-    "description": "Conception et intégration de bases de données relationnelles et NoSQL dans les projets web Java/JavaScript.",
+    "title": "Gestion et optimisation de bases de données",
+    "description": "Conception et intégration de bases de données relationnelles et NoSQL optimisées pour vos applications, assurant performance et fiabilité.",
     "features": [
-      "Modélisation des données (MCD) ",
-      "Requêtes SQL optimisées (MySQL)",
-      "Intégration avec MongoDB",
-      "ORM avec Hibernate ou Spring Data JPA"
+      "Modélisation des données sur mesure",
+      "Requêtes optimisées pour vos cas d'usage",
+      "Intégration flexible MongoDB/MySQL",
+      "ORM adapté à votre architecture",
+      "Maintenance et optimisation continues"
     ]
   },
   {
     "id": 5,
     "icon": "bi-shield-lock",
-    "title": "Sécurité des applications web",
-    "description": "Implémentation des meilleures pratiques de sécurité dans les applications web pour garantir la confidentialité et l’intégrité des données.",
+    "title": "Sécurité des applications web renforcée",
+    "description": "Implémentation de mesures de sécurité avancées pour protéger vos données et assurer la confiance de vos utilisateurs.",
     "features": [
-      "Gestion d’authentification et d’autorisation (JWT, OAuth2)",
-      "Sécurisation des API REST",
-      "Protection contre les attaques XSS, CSRF",
-      "Chiffrement des mots de passe (BCrypt)",
-      "Audit et journalisation des accès"
+      "Authentification et autorisation personnalisées",
+      "Protection contre les menaces courantes",
+      "Chiffrement des données sensibles",
+      "Audit et monitoring de sécurité",
+      "Conformité aux standards de sécurité"
     ]
   },
   {
     "id": 6,
     "icon": "bi-phone",
-    "title": "Responsive Design",
-    "description": "Création d’interfaces adaptatives grâce aux technologies HTML5 et CSS3, assurant une compatibilité optimale sur tous les écrans (mobile, tablette, desktop). Utilisation du framework Bootstrap pour accélérer le développement et garantir une mise en page cohérente et responsive.",
+    "title": "Design responsive et expérience utilisateur",
+    "description": "Création d’interfaces adaptatives et centrées utilisateur, garantissant une expérience optimale sur tous les appareils pour maximiser l'engagement de votre audience.",
     "features":[]
   },
    {
     "id":7,
     "icon": "bi-kanban",
-    "title": "Gestion de projet",
-    "description": "Conception, rédaction de documentation, maintenance, support utilisateur, travail en équipe",
-    "features": ["Git", "Bugsnag", "Zammad", "Slack"]
+    "title": "Gestion de projet et accompagnement client",
+    "description": "Suivi complet de votre projet de la conception à la livraison, avec communication transparente et support continu pour assurer votre satisfaction.",
+    "features": ["Planification personnalisée", "Communication régulière", "Suivi des livrables", "Support post-livraison", "Outils de collaboration adaptés"]
   }
 ]

@@ -1,5 +1,3 @@
-
-
 import { Routes, Route } from 'react-router-dom';
 import AboutPage  from './pages/AboutPage';
 import  ContactPage  from './pages/ContactPage';
@@ -8,7 +6,7 @@ import { PortfolioPage } from './pages/PortfolioPage';
 import ServicesPage  from './pages/ServicesPage';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
-import BackgroundParticles from './components/BackgroundParticles';
+// import BackgroundParticles from './components/BackgroundParticles';
 import LegalNotice from './pages/LegalNotice';
 
 import ProjectDetail from './pages/ProjectDetail';
@@ -19,13 +17,12 @@ function App() {
 
   return (
     <>
-    <div className='d-flex flex-column min-vh-100'>
-
+    <div className='d-flex flex-column min-vh-100' style={{ background: 'var(--bluegray)', minHeight: '100vh', minWidth: '100vw' }}>
       <Header />
       <main className='flex-grow-1'>
       
 
-      <BackgroundParticles/>
+      {/* <BackgroundParticles/> */}
       
         <Routes>
           <Route path="/" element={<HomePage />} />

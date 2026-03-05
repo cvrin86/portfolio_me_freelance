@@ -1,12 +1,42 @@
-# React + Vite
+# Portfolio Freelance - Cristina Vrinceanu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio professionnel d'une conceptrice développeuse freelance orientée clients, spécialisée dans le développement d'applications web Java & JavaScript.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ce portfolio présente mes services de développement web sur mesure, mes projets réalisés pour des clients, et mon approche centrée sur les besoins utilisateurs. Que vous ayez besoin d'un site vitrine, d'une application web complexe, ou d'une solution digitale personnalisée, je suis là pour transformer vos idées en réalité.
 
-## Expanding the ESLint configuration
+## Technologies utilisées
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, HTML5, CSS3, Bootstrap
+- **Backend**: Java Spring Boot, Node.js
+- **Base de données**: MySQL, MongoDB
+- **Outils**: Vite, ESLint, Git
+
+## Fonctionnalités
+
+- Présentation des services freelance
+- Galerie de projets clients
+- Section à propos avec parcours professionnel
+- Formulaire de contact
+- Design responsive et moderne
+
+## Installation et exécution
+
+```bash
+# Cloner le repository
+git clone <repository-url>
+
+# Installer les dépendances
+npm install
+
+# Lancer en mode développement
+npm run dev
+
+# Construire pour la production
+npm run build
+```
+
+## Contact
+
+Pour discuter de votre projet ou collaborer, n'hésitez pas à me contacter via le formulaire du site ou directement par email.

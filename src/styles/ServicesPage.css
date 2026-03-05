@@ -1,7 +1,11 @@
+
 .card-service{
   border-radius: 100%;
   font-size: 0.9rem;
   padding: 0.5rem;
+  background: var(--bluegray);
+  color: #fff;
+  box-shadow: 0 2px 12px rgba(16,24,42,0.10);
 }
 
 .card-text{
@@ -13,17 +17,18 @@
 .card{
   display: flex;
   justify-content: center;
-  /* align-items: center; */
-  /* background-color: #f5f4f3 !important; */
-  padding: 1rem 0;
-  
+  background: var(--bluegray) !important;
+  color: #fff;
+  border: none;
+  border-radius: 2rem;
+  padding: 1.5rem 0.5rem;
+  box-shadow: 0 2px 12px rgba(16,24,42,0.10);
 }
 
 
 .service-page{
   margin: 5rem 0;
- 
- 
+  background: var(--bluegray);
 }
 
 .services-list {

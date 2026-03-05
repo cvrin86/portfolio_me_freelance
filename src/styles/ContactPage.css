@@ -2,12 +2,12 @@
 
 .contact-section {
   /* max-width: 800px; */
-  background-color: #000;
+  background: var(--bluegray);
   color: #fff;
   margin-top: 120px;
   padding: 3rem;
- 
-
+  border-radius: 2rem;
+  box-shadow: 0 2px 12px rgba(16,24,42,0.10);
 }
 
 .contact-title {
@@ -18,8 +18,7 @@
 
 .contact-underline {
   display: inline-block;
-  
-  border-bottom: 2px solid #bbb568; 
+  border-bottom: 2px solid #bbb568;
   padding: 0.25rem 0;
   width: 5rem;
 }
